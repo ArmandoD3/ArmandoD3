@@ -13,4 +13,14 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+-->Soy un profesional proactivo con experiencia en el diseño e implementación de sistemas de capacitación, gestión de competencias y desarrollo organizacional. Actualmente impulso proyectos que integran Power Platform, SharePoint y Power BI para digitalizar procesos de aprendizaje y certificación dentro de entornos industriales.
+
+Además, estoy en proceso de formación en Ciencia de Datos, con el objetivo de aplicar análisis predictivo y automatización para la toma de decisiones empresariales. Mis intereses incluyen la inteligencia artificial y analisis predictivo.
+
+💡 Proyectos en desarrollo:
+
+Plataforma integral de gestión de capacitación y certificaciones.
+
+Sistema de analítica para decisiones en negocios pequeños.
+
+Programa de autoría personal y liderazgo basado en ciencia de datos.
